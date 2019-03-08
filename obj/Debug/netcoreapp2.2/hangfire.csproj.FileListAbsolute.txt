@@ -1,0 +1,14 @@
+C:\projetos\hangfire\bin\Debug\netcoreapp2.2\hangfire.deps.json
+C:\projetos\hangfire\bin\Debug\netcoreapp2.2\hangfire.runtimeconfig.json
+C:\projetos\hangfire\bin\Debug\netcoreapp2.2\hangfire.runtimeconfig.dev.json
+C:\projetos\hangfire\bin\Debug\netcoreapp2.2\hangfire.dll
+C:\projetos\hangfire\bin\Debug\netcoreapp2.2\hangfire.pdb
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.csprojAssemblyReference.cache
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.csproj.CoreCompileInputs.cache
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.RazorAssemblyInfo.cache
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.RazorAssemblyInfo.cs
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.AssemblyInfoInputs.cache
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.AssemblyInfo.cs
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.RazorTargetAssemblyInfo.cache
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.dll
+C:\projetos\hangfire\obj\Debug\netcoreapp2.2\hangfire.pdb
